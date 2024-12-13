@@ -1,0 +1,1 @@
+enum MessageTypeEnum { status, message }
